@@ -42,7 +42,7 @@ pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu110/torch1.7
 cd GuassionAssignment
 pip install -r requirements/build.txt
 pip install -v -e .  # or "python setup.py develop"
-    ```
+```
 	
 ## How to use?
 
@@ -61,12 +61,11 @@ pip install -v -e .  # or "python setup.py develop"
 
 
 ## How to train?
-
 ```
 python train.py ../config_GA/atss_darknet53_aitod_2x_ga.py 
 ```
-## How to test?
 
+## How to test?
 ```
 python test.py ../config_GA/atss_darknet53_aitod_2x_ga.py ../{your_checkpoint_path} --eval bbox 
 ```
