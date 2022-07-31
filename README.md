@@ -1,13 +1,14 @@
 ##Label Assignment Matters: A Gaussian Assignment Strategy for Tiny Object Detection
 
 ## Trined model, logs and result file can be downloaded from the download link in the table.
-| model                  | AP   | AP_vt | Speed   | Download |
-|:-----------------------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| RetinaNet-S-GA         | 20.2     | 8.7   | 34.0 |   [Google Drive](https://drive.google.com/drive/folders/1valb_vfn9KW03ejbjbZcV6cPl_7aDAhD?usp=sharing) <br> [Baidu Drive](https://pan.baidu.com/s/1ILX82r9gJDrCmroMfWsXPw (Passwd:nudt) |                   
+
+|Model          |    AP     |    AP_vt  |  Speed | Download  | 
+|:-------------:| :-------------: | :------------: | :----: | :---------------------------------------------------------------------------------------: |
+| RetinaNet-S-GA         | 20.2     | 8.7   | 34.0 |   [Google Drive](https://drive.google.com/drive/folders/1valb_vfn9KW03ejbjbZcV6cPl_7aDAhD?usp=sharing) <br> [Baidu Drive](https://pan.baidu.com/s/1ILX82r9gJDrCmroMfWsXPw) (Passwd:nudt) |     
 | FCOS-S-GA              | 19.6     | 7.9   | 34.8 |    [Google Drive](https://drive.google.com/drive/folders/1CdBPDm1PqVmV_apCbACYvt6c0GksDeb3?usp=sharing) <br> [Baidu Drive](https://pan.baidu.com/s/1fHLF7goL8cNvmKpkrTWICQ) (Passwd:nudt) |
-| ATSS-S-GA              | 20.8     | 8.5   | 34.7 |   [Google Drive](https://drive.google.com/drive/folders/1uZeB97h_9QFA_bkh3W1ttPT2zK6KOPP0?usp=sharing) <br> [Baidu Drive](https://pan.baidu.com/s/13dwlHRmHvQk-fqfSGsPDGQ) (Passwd:nudt) |                   
 | TTFNet-GA              | 21.8     | 10.3  | 34.3 |    [Google Drive](https://drive.google.com/drive/folders/1S2LurXTQ_v2RK6rq6_ecFNbRRJ_nTsxg?usp=sharing) <br> [Baidu Drive](https://pan.baidu.com/s/1YEXCNUjTuD9LNy8S9WbwEQ) (Passwd:nudt) |
 | TTFNet-MiTB1-GA        |  24.2    | 10.4  | 37.6 |    [Google Drive](https://drive.google.com/drive/folders/1DgwdTGERFZnyOpVMiKEuOcjpnskggLw3?usp=sharing) <br> [Baidu Drive](https://pan.baidu.com/s/1Vq_5SYpWYJTWrYxZU_UpZg) (Passwd:nudt) |
+
 
 ## Install
 Code (based on [mmdetection](https://github.com/open-mmlab/mmdetection)) 
